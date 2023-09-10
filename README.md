@@ -12,6 +12,8 @@ Welcome to the RGB to Hex Color Selector App! This versatile tool empowers you t
 
 - **Effortless Copying:** With just a tap, copy the Hex code to your clipboard for seamless integration into your designs and applications.
 
+![ColorSelctorGreen](https://github.com/NekZampe/ColourSelectorApp/assets/127551641/cb0cebcd-c08f-42bc-a2cc-f8948d64689d)
+
 This app is designed to make color selection and code retrieval as straightforward as possible. It's a valuable tool for designers, developers, and anyone seeking the ideal color for their projects.
 
 Explore the world of colors with the RGB to Hex Color Selector App. Download now and bring your creative visions to life with ease!
